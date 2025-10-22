@@ -1,48 +1,119 @@
-# diijez
-About Me
+<!-- 👋 INTRO SECTION -->
+<h1 align="center">Hi there, I'm <span style="color:#4E9F3D;">Khadija Ahmad</span> 👋</h1>
 
-# Hi there, I'm [Your Name]! 👋
+<p align="center">
+  <em>🚀 Frontend Developer | 💡 Passionate Problem Solver | 🌍 Tech for Impact Advocate</em>
+</p>
 
-![Banner Image](your_banner_image_url_here)
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-green" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+</p>
 
-## About Me 🚀
+---
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+<!-- 🌟 ABOUT SECTION -->
+<h2>🌟 About Me</h2>
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+<p>
+  I'm an <strong>ALX Pro Frontend Development Learner</strong> driven by curiosity, creativity, and a genuine desire to make technology more human-centered.  
+  I began my journey in software engineering because I wanted to <strong>create meaningful systems that solve real problems</strong> and <strong>share knowledge that empowers others</strong>.  
+</p>
 
-## My Skills 🧠
+<p>
+  My aim is to become a <strong>skilled software engineer</strong> who doesn’t just build useful tools but also helps others grow by passing down the knowledge I’ve gained.  
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<p>
+  I love working on <strong>projects that merge technology with education, accessibility, and real-world impact</strong> — like smart systems, geo-location-based tools, and solutions that make people’s lives easier.
+</p>
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+---
 
-## Featured Projects 💻
+<!-- 🧠 SKILLS SECTION -->
+<h2>💻 Tech Stack</h2>
 
-### [Project 1 Title](project_1_link)
+<table>
+  <tr>
+    <td><strong>Languages:</strong></td>
+    <td>HTML, CSS, JavaScript (ES6+)</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks & Libraries:</strong></td>
+    <td>React.js, Node.js, Express.js, Sequelize</td>
+  </tr>
+  <tr>
+    <td><strong>Databases:</strong></td>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Others:</strong></td>
+    <td>Git, GitHub, VS Code, Postman, Figma</td>
+  </tr>
+</table>
 
-![Project 1 Screenshot](project_1_screenshot_url)
+---
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+<!-- ⚙️ PROJECTS SECTION -->
+<h2>⚙️ Featured Projects</h2>
 
-### [Project 2 Title](project_2_link)
+<ul>
+  <li>
+    <strong>📍 Smart Attendance System (QR + Geo-Location)</strong><br>
+    A real-time attendance tracking system that integrates QR code scanning, location verification, and authentication layers for students and lecturers.  
+    <a href="https://github.com/your-username/smart-attendance-system">🔗 View Repository</a>
+  </li>
+  <li>
+    <strong>🏠 Airbnb Clone</strong><br>
+    A responsive web app clone that mimics Airbnb’s design and structure using HTML, CSS, and JavaScript.  
+    <a href="https://github.com/your-username/airbnb-clone">🔗 View Repository</a>
+  </li>
+  <li>
+    <strong>🧭 Geo-Location Project</strong><br>
+    A map-based project demonstrating the integration of real-time location tracking and distance validation using browser APIs.  
+    <a href="https://github.com/your-username/geo-location-project">🔗 View Repository</a>
+  </li>
+</ul>
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+<!-- 🌱 CURRENT LEARNING -->
+<h2>🌱 Currently Learning</h2>
+<p>
+  I'm sharpening my frontend skills through the <strong>ALX Frontend Developer Program</strong> — diving deeper into <em>React, advanced CSS animations, accessibility design, and performance optimization</em>.
+</p>
 
-## Get in Touch 📬
+---
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+<!-- 🎯 GOALS -->
+<h2>🎯 My Vision</h2>
+<p>
+  To build systems that empower communities, make technology accessible, and share generational knowledge that inspires the next wave of innovators.
+</p>
 
+---
 
+<!-- 📫 CONTACT -->
+<h2>📫 Let's Connect</h2>
+<p>
+  💌 Email: <a href="mailto:your-email@example.com">your-email@example.com</a><br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/your-linkedin-profile/">linkedin.com/in/your-linkedin-profile/</a><br>
+  🌍 Portfolio: <a href="https://your-portfolio-link.com">your-portfolio-link.com</a>
+</p>
+
+---
+
+<!-- 📊 GITHUB STATS -->
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" width="45%"/>
+</p>
+
+---
+
+<!-- ✨ FUN QUOTE -->
+<p align="center">
+  <em>“Technology is best when it brings people together.” – Matt Mullenweg</em>
+</p>
