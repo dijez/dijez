@@ -62,22 +62,27 @@
   <li>
     <strong>📍 Smart Attendance System (QR + Geo-Location)</strong><br>
     A real-time attendance tracking system that integrates QR code scanning, location verification, and authentication layers for students and lecturers.  
-    <a href="https://github.com/dijez">🔗 View Repository</a>
+    <a href="https://github.com/dijez/attendnace-system- ">🔗 View Repository</a>
   </li>
   <li>
     <strong>🏠 Airbnb Clone</strong><br>
     A responsive web app clone that mimics Airbnb’s design and structure using HTML, CSS, and JavaScript.  
-    <a href="https://github.com/your-username/airbnb-clone">🔗 View Repository</a>
+    <a href="https://github.com/dijez/airbnb-clone-project">🔗 View Repository</a>
   </li>
   <li>
     <strong>🧭 Simple Quiz System </strong><br>
     A system that generates multiple questions and gives a score at the end of the quiz 
-    <a href="https://github.com/your-username/geo-location-project">🔗 View Repository</a>
+    <a href="https://github.com/dijez/quizapp">🔗 View Repository</a>
   </li>
   <li>
     <strong>🧭 An Emoji Selector System </strong><br>
-    A system that when an emoji is selected .............
-    <a href="https://github.com/your-username/geo-location-project">🔗 View Repository</a>
+    A system that has 2 different containers that an emoji selected in the main container appears in the second container.
+    <a href="https://github.com/dijez/emoji-selection">🔗 View Repository</a>
+  </li>
+  <li>
+    <strong>🧭 Rock Paper Scissors Game </strong><br>
+    A game of individual or dual players were ezch player selects one of the 3 elements 
+    <a href="https://github.com/dijez/rock-paper-scissors">🔗 View Repository</a>
   </li>
 </ul>
 
@@ -112,8 +117,11 @@
 <!-- 📊 GITHUB STATS -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dijez&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dijez&theme=tokyonight" alt="GitHub streak" width="45%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijez&layout=compact&theme=tokyonight
+  " alt="Top Languages" width="45%"/>
 </p>
 
 ---
