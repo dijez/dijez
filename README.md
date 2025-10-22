@@ -2,13 +2,13 @@
 <h1 align="center">Hi there, I'm <span style="color:#4E9F3D;">Khadija Ahmad</span> 👋</h1>
 
 <p align="center">
-  <em>🚀 Frontend Developer | 💡 Passionate Problem Solver | 🌍 Tech for Impact Advocate</em>
+  <em>🚀 Frontend Developer | 💡 Passionate Problem Solver </em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-green" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/dijez"></a>
+  <a href="mailto:khadijaahmad2k21@gmail.com"><img src="https://img.shields.io/badge/Email-Me-green" alt="Email"></a>
+  <a href="https://www.linkedin.com/ahmad-khadijah-joda"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </p>
 
 ---
