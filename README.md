@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><strong>Frameworks & Libraries:</strong></td>
-    <td>React.js, Node.js, Express.js, Sequelize</td>
+    <td>Node.js, Express.js, Sequelize</td>
   </tr>
   <tr>
     <td><strong>Databases:</strong></td>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><strong>Tools & Others:</strong></td>
-    <td>Git, GitHub, VS Code, Postman, Figma</td>
+    <td>GitHub, VS Code, Postman, Figma</td>
   </tr>
 </table>
 
@@ -62,7 +62,7 @@
   <li>
     <strong>📍 Smart Attendance System (QR + Geo-Location)</strong><br>
     A real-time attendance tracking system that integrates QR code scanning, location verification, and authentication layers for students and lecturers.  
-    <a href="https://github.com/your-username/smart-attendance-system">🔗 View Repository</a>
+    <a href="https://github.com/dijez">🔗 View Repository</a>
   </li>
   <li>
     <strong>🏠 Airbnb Clone</strong><br>
@@ -70,8 +70,13 @@
     <a href="https://github.com/your-username/airbnb-clone">🔗 View Repository</a>
   </li>
   <li>
-    <strong>🧭 Geo-Location Project</strong><br>
-    A map-based project demonstrating the integration of real-time location tracking and distance validation using browser APIs.  
+    <strong>🧭 Simple Quiz System </strong><br>
+    A system that generates multiple questions and gives a score at the end of the quiz 
+    <a href="https://github.com/your-username/geo-location-project">🔗 View Repository</a>
+  </li>
+  <li>
+    <strong>🧭 An Emoji Selector System </strong><br>
+    A system that when an emoji is selected .............
     <a href="https://github.com/your-username/geo-location-project">🔗 View Repository</a>
   </li>
 </ul>
@@ -81,7 +86,7 @@
 <!-- 🌱 CURRENT LEARNING -->
 <h2>🌱 Currently Learning</h2>
 <p>
-  I'm sharpening my frontend skills through the <strong>ALX Frontend Developer Program</strong> — diving deeper into <em>React, advanced CSS animations, accessibility design, and performance optimization</em>.
+  I'm sharpening my frontend skills through the <strong>ALX Pro Frontend Developer Program</strong> — diving deeper into <em>React, Typescript, advanced CSS animations, accessibility design, and performance optimization</em>.
 </p>
 
 ---
@@ -97,7 +102,7 @@
 <!-- 📫 CONTACT -->
 <h2>📫 Let's Connect</h2>
 <p>
-  💌 Email: <a href="mailto:your-email@example.com">your-email@example.com</a><br>
+  💌 Email: <a href="khadijaahmad2k21@gmail.com">khadijaahmad2k21@gmail.com</a><br>
   💼 LinkedIn: <a href="https://linkedin.com/in/your-linkedin-profile/">linkedin.com/in/your-linkedin-profile/</a><br>
   🌍 Portfolio: <a href="https://your-portfolio-link.com">your-portfolio-link.com</a>
 </p>
