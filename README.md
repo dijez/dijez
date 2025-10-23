@@ -71,17 +71,17 @@
     <a href="https://github.com/dijez/airbnb-clone-project">🔗 View Repository</a>
   </li>
   <li>
-    <strong>🧭 Simple Quiz System </strong><br>
+    <strong>🧩 Simple Quiz System </strong><br>
     A system that generates multiple questions and gives a score at the end of the quiz 
     <a href="https://github.com/dijez/quizapp">🔗 View Repository</a>
   </li>
   <li>
-    <strong>🧭 An Emoji Selector System </strong><br>
+    <strong>😊 An Emoji Selector System </strong><br>
     A system that has 2 different containers that an emoji selected in the main container appears in the second container.
     <a href="https://github.com/dijez/emoji-selection">🔗 View Repository</a>
   </li>
   <li>
-    <strong>🧭 Rock Paper Scissors Game </strong><br>
+    <strong>✊ Rock Paper Scissors Game </strong><br>
     A game of individual or dual players were each player selects one of the 3 elements 
     <a href="https://github.com/dijez/rock-paper-scissors">🔗 View Repository</a>
   </li>
