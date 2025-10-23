@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dijez"></a>
+  <a href="https://github.com/dijez"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"></a>
   <a href="mailto:khadijaahmad2k21@gmail.com"><img src="https://img.shields.io/badge/Email-Me-green" alt="Email"></a>
-  <a href="https://www.linkedin.com/ahmad-khadijah-joda"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ahmad-khadijah-joda">LinkedIn</a>
+
 </p>
 
 ---
@@ -81,7 +82,7 @@
   </li>
   <li>
     <strong>🧭 Rock Paper Scissors Game </strong><br>
-    A game of individual or dual players were ezch player selects one of the 3 elements 
+    A game of individual or dual players were each player selects one of the 3 elements 
     <a href="https://github.com/dijez/rock-paper-scissors">🔗 View Repository</a>
   </li>
 </ul>
@@ -107,8 +108,8 @@
 <!-- 📫 CONTACT -->
 <h2>📫 Let's Connect</h2>
 <p>
-  💌 Email: <a href="khadijaahmad2k21@gmail.com">khadijaahmad2k21@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/your-linkedin-profile/">linkedin.com/in/your-linkedin-profile/</a><br>
+  💌 Email: <a href="mailto:khadijaahmad2k21@gmail.com">khadijaahmad2k21@gmail.com</a><br>
+  💼 LinkedIn: <a href="www.linkedin.com/in/ahmad-khadijah-joda">www.linkedin.com/in/ahmad-khadijah-joda</a><br>
   🌍 Portfolio: <a href="https://your-portfolio-link.com">your-portfolio-link.com</a>
 </p>
 
@@ -120,11 +121,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dijez&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dijez&theme=tokyonight" alt="GitHub streak" width="45%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijez&layout=compact&theme=tokyonight
-  " alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijez&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+
 </p>
 
----
+<p align="center">✨ ✨ ✨</p>
+
 
 <!-- ✨ FUN QUOTE -->
 <p align="center">
